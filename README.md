@@ -11,8 +11,8 @@ Computer Science Department
 ​																												By 
 
 ​																												*<u>**Omar Salah Lofty**</u>* 
-
-​																												*<u>**Amir Hosny Mohamed**</u>*      
+​																												      
+​																												[***<u>Amir Haroun</u>***](https://github.com/AmirHaroun1)
 
 ​																												[***<u>Mohammed Abdallah El-saied</u>***](https://github.com/mohamedabdallah20)
 
